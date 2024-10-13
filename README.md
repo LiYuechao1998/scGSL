@@ -1,0 +1,2 @@
+Graph Structure Learning for Tumor Microenvironment
+Welcome to the GitHub repository for the paper "Graph Structure Learning for Tumor Microenvironment with Cell Type Annotation from Non-Spatial scRNA-seq Data." Here, we provide the code used to explore and analyze tumor microenvironments using graph neural network techniques based on non-spatial scRNA-seq data. This repository aims to facilitate further research and development in the field of bioinformatics focused on cancer research.
